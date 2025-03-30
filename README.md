@@ -1,3 +1,3 @@
-# Minecraft Perfected
+# Superior
 
-Work in Progress Modpack
+Work in Progress MC Modpack
